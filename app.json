@@ -1,6 +1,6 @@
 {
-  "name": "CYBER-X 1.5 BETA",
-  "description": "ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ",
+  "name": "NIKO-X 1.5 BETA",
+  "description": "ɴɪᴋᴏ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ",
   "repository": "https://github.com/darkalphaxteam/CYBER-X-BETA-1.5.1-RELEASE-",
   "logo": "https://telegra.ph/file/0c126ae19dca72ab0cae0.jpg",
   "keywords": ["nodejs", "Bot", "WhatsApp Bot", "WhatsApp Automation", "Multi Device"],
@@ -8,32 +8,32 @@
           	"SUDO_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "94711421243"
+			"value": "94763332698"
 		    },
 		    "BOT_NAME": {
 			"description": "Change the bot Name here",
 			"required": true,
-			"value": "CYBER-X BETA 1.5"
+			"value": "NIKO-X BETA 1.5"
 			},
 			"BOT_NUMBER": {
 			"description": "Change the Bot Number",
 			"required": true,
-			"value": "94778962038"
+			"value": "94763332698"
 			},
 			"STICKERS_NAME": {
 			"description": "Add the Stickers Name",
 			"required": true,
-			"value": "ᴋɪɴɢ.ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
+			"value": "ᴋɪɴɢ.ᴅᴀʀᴋ ɴɪᴋᴏ"
 			},
 			"OWNER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
+			"value": "ᴅᴀʀᴋ ɴɪᴋɪ"
 			},
 			"FOOTER": {
 			"description": "Add Your Button Massage's Footer",
 			"required": true,
-			"value": "ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ʀᴇʟᴇᴀꜱᴇ"
+			"value": "ɴɪᴋᴏ-x ʙᴇᴛᴀ ʀᴇʟᴇᴀꜱᴇ"
 			},
 			"ALIVE_IMAGE": {
 			"description": "Add Your Alive Image Derect Link",
@@ -63,7 +63,7 @@
 			"CAPTION": {
 			"description": "Add Your Downloaded Video's Caption",
 			"required": true,
-			"value": "ʙʏ ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ"
+			"value": "ʙʏ ɴɪᴋᴏ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ"
 			},
 			"YOUR_WEB": {
 			"description": "Add Your web or a nother Link",
@@ -73,7 +73,7 @@
 			"PREMIUM_NUMBER" : {
 			"description": "Add your Number For unlock all Bot Features",
 			"required": true,
-			"value": "94711421243"
+			"value": "9476333698"
 			},
 			"SONGUP_MSG": {
 			"description": "Add Massage For Song Uploading",
@@ -88,7 +88,7 @@
 			"DEPLOYER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "DARK ALPHA"
+			"value": "DARK NIKO"
 			},
 			"LOCATION": {
 			"description": "Add Your Location",
@@ -113,7 +113,7 @@
 			"INBOX_MSG": {
 			"description": "Add Your Inbox Back Massage",
 			"required": true,
-			"value": "*ᴄʏʙᴇʀ-x ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴏɴʟʏ ᴡᴏʀᴋɪɴɢ ɪɴ ɢʀᴏᴜᴘꜱ*"
+			"value": "*ɴɪᴋᴏ-x ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴏɴʟʏ ᴡᴏʀᴋɪɴɢ ɪɴ ɢʀᴏᴜᴘꜱ*"
 			}
 			
           },
